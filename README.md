@@ -41,12 +41,12 @@ Uses three different feature extraction methods:
 ## Installation
 
 - pip install -r requirements.txt
-- You will need Jupyter Notebook
-- Just Run the file main.ipynb
+- Please install Jupyter Notebook
+- Run the file - main.ipynb
 
 ## Contribution:
 
 | Name              | Matriculation Number |
 | ----------------- | -------------------- |
-| Harshit Purohit   |    4012382    |
+| Harshit Purohit   |    4012382           |
 
